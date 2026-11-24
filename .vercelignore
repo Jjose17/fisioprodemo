@@ -1,0 +1,5 @@
+server.cjs
+README.md
+output/
+node_modules/
+*.zip
